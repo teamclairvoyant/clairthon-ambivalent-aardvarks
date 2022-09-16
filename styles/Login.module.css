@@ -1,0 +1,23 @@
+.leftContainer{
+  width: 50vw;
+  height: 100vh;
+}
+
+.rightContainer{
+  width: 50vw;
+  height: 100vh;
+  /* background-color: rgb(24, 24, 24); */
+  background-color: rgb(34, 23, 26);
+
+}
+
+.image{
+  /* width: 50vw; */
+  /* height: 100vw; */
+
+}
+
+.main{
+  display: flex;
+  overflow: hidden;
+}
